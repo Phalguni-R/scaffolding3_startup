@@ -1,4 +1,4 @@
-# Gutenberg Text Cleaner — Scaffolding Assignment 3
+# Gutenberg Text Cleaner 
 
 A Flask-based web service that fetches, cleans, and analyzes plain-text books from Project Gutenberg. Built as part of the Basics of AI (CSE 510) course, Spring 2026.
 
